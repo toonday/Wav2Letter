@@ -1,4 +1,6 @@
-pytorch-nightly  # as of Nov 2018 - need pytorch 1.0 necessary for CTC_loss fn
+torchvision
+torch
+torchaudio
 sonopy
 scipy
 tqdm
